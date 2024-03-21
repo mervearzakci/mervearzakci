@@ -25,12 +25,3 @@
   <img height="200" src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=ecf05e475a3fdbuuw7ht5vilx3j9yfbhc9mzzd1jviiwem1f&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Merve">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11upe0dguzfz7guz94ltco0lq"  />
-  </a>
-</div>
-
-###
