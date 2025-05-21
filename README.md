@@ -8,10 +8,10 @@
 ---
 
 ### 🧭 Hakkımda Kısaca
-- 🎓 Hemşirelik ve Grafik Tasarımı eğitimi aldım.
+- 🎓 Bilgisayar Programlama ve Grafik Tasarımı eğitimi aldım.
 - 💻 Kod yazmak ve görsel içerik üretmekten keyif alıyorum.
 - 🌱 Şu anda JavaScript, Node.js ve Python konularında kendimi geliştiriyorum.
-- 🧠 Sağlık ve yazılımın birleştiği alanlara özel ilgim var.
+- 🧠 Tasarım ve yazılımın birleştiği alanlara özel ilgim var.
 - ✨ Açık kaynak dünyasında aktif rol almak istiyorum.
 
 ---
