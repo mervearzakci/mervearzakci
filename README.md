@@ -43,7 +43,6 @@
 | 🔹 [mervearzakci](https://github.com/mervearzakci/mervearzakci) | Bu profilin README dosyası |
 
 ---
-
-### 📫 İletişim
-- 🌍 Türkiye  
 - [LinkedIn Profilim](https://www.linkedin.com/in/merve-arzak%C3%A7%C4%B1-521804239/)
+  ![Can Deger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanDeger&show_icons=true&theme=dark&hide=issues&count_private=true)
+
