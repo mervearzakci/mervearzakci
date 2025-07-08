@@ -7,70 +7,50 @@
 
 ---
 
-## 🧬 Karakter Bilgisi
+## 🧬 Karakter Özeti
 
-| Stat          | Değer                       |
-|---------------|-----------------------------|
-| 🎂 Doğum      | 1999                        |
-| 📍 Lokasyon   | İstanbul, Türkiye           |
-| 📱 Telefon    | 05xx xxx xx xx              |
-| ✉️ E-posta    | mervearzakci@email.com      |
-| 🧪 Seviye     | Lv. 1 - Frontend Adayı      |
-| 💎 EXP        | 1530 / 3000                 |
+- 🎂 1999 // İstanbul, Türkiye  
+- 🧪 Seviye: LVL 1 – Frontend Adayı  
+- 💎 EXP: 1530 / 3000  
+- 🔁 Günlük Giriş: 21/365  
+- 🗂️ İlgi Alanları: UI/UX, JavaScript, React Native, Oyunlaştırma, Figma
 
 ---
 
-## 🛡️ Statlarım
+## 🎮 EXP Günlükleri
 
-| Stat Adı         | Seviye /10 | Bar              |
-|------------------|------------|------------------|
-| 💡 Yaratıcılık   | 9/10       | ██████████▉      |
-| 🧠 Problem Çözme | 8/10       | █████████▋       |
-| ⚔️ Kodlama       | 7/10       | ███████▋         |
-| 🎨 Tasarım       | 9/10       | ██████████▉      |
-| 🗣️ İletişim      | 10/10      | ███████████      |
+| Gün | Not |
+|-----|-----|
+| 📅 1. Gün | Proje dosyası oluşturuldu. |
+| 📅 2. Gün | Giriş ekranı tasarlandı. |
+| 📅 3. Gün | Expo kurulumu tamamlandı. |
+| 📅 4. Gün | GitHub & To-do yönlendirmeleri eklendi. |
+| 📅 ...    | ... |
+| 📅 21. Gün | Bugün buradayım. EXP +50 |
 
----
-
-## 🧰 Silah ve Araç Ustalığı
-
-| Yazılım / Silah        | Seviye | Bar             |
-|------------------------|--------|-----------------|
-| Adobe Photoshop        | 9/10   | ██████████▉     |
-| Adobe Illustrator      | 8/10   | █████████▊      |
-| Figma / UI Tools       | 7/10   | ███████▊        |
-| Visual Studio / C#     | 7/10   | ███████▊        |
-| JavaScript             | 6/10   | ██████▊         |
+> ⏳ **Toplam Günlük Giriş:** 21  
+> 🔥 **EXP: +50/günlük** (aktiflik bonusu)
 
 ---
 
-## 🎮 Görev Günlüğü (Quest Log)
+## 🧰 Araçlarım
 
-- 🎓 **Bilgisayar Programlama & Grafik Tasarım** – Mezuniyet (2019 - 2023)
-- 💻 **Freelance UI/UX Projeleri** – Aktif
-- 🧪 **Mini Projeler ve Kendi Tasarım Lab’ı** – Github’da yayınlandı
-
----
-
-## 🏆 Başarılar (Achievements)
-
-| Rozet | Açıklama |
-|-------|----------|
-| 🥇 | En Aktif GitHub Sayfa Tasarımı (2025) |
-| 🧩 | 10+ mini proje yayınladı |
-| 🎨 | Behance UI Challenge Katılımcısı |
+- 🎨 Adobe Illustrator / Photoshop  
+- 🧩 Figma & UI Kit'ler  
+- 💻 VSCode, JavaScript, React Native  
+- 🎲 Oyunlaştırma & Minimal UI  
 
 ---
 
-## 🎯 GitHub EXP Paneli
+## 🏆 Mini Başarılar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mervearzakci&show_icons=true&theme=radical" width="400">
-</p>
+- 🧪 Kişisel tasarım laboratuvarı kuruldu  
+- 💻 GitHub’da 10+ proje yayınlandı  
+- 🎨 Behance UI Challenge katılımı  
 
 ---
 
-## 📬 İletişim Tuşları
+## 📬 Ulaşmak için
 
 <p align="center">
   <a href="mailto:mervearzakci@email.com"><img src="https://img.shields.io/badge/-Mail Me!-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
