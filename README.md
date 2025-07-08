@@ -1,48 +1,60 @@
-<h1 align="center">Merhaba, ben Merve Arzakçı! 👋</h1>
-<p align="center">Grafik tasarım ve yazılımın kesişiminde üretmeyi seven bir geliştiriciyim 👩‍💻</p>
+<h1 align="center">🎮 Merve'nin Yazılım Oyun Alanına Hoş Geldin! 🛠️</h1>
+<p align="center">Kodlar, tasarımlar ve küçük deneylerle dolu bir dijital oyun bahçesi.</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=ecf05e475a3fdbuuw7ht5vilx3j9yfbhc9mzzd1jviiwem1f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
 </div>
 
 ---
 
-### 🧭 Hakkımda Kısaca
-- 🎓 Bilgisayar Programlama ve Grafik Tasarımı eğitimi aldım.
-- 💻 Kod yazmak ve görsel içerik üretmekten keyif alıyorum.
-- 🌱 Şu anda JavaScript, Node.js ve Python konularında kendimi geliştiriyorum.
-- 🧠 Tasarım ve yazılımın birleştiği alanlara özel ilgim var.
-- ✨ Açık kaynak dünyasında aktif rol almak istiyorum.
+### 🗺️ Alanlarım
 
----
+<div align="center">
 
-### 🛠 Language and Tools
+🎨 | 👩‍💻 | 🧪 | 🕹️ | 📁  
+**Tasarım** | **Kodlama** | **Deneyler** | **Mini Oyunlar** | **Projeler**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
 ---
 
-### 📂 Repositories Öne Çıkanlar
+### 🕹️ Oyun İstatistikleri
 
-| Proje | Açıklama |
-|-------|----------|
-| 🔹 [simple-windows-desktop-apps](https://github.com/mervearzakci/simple-windows-desktop-apps) | Basit masaüstü C# uygulamaları koleksiyonu |
-| 🔹 [hesap-makinesi](https://github.com/mervearzakci/hesap-makinesi) | Dört işlemli bir hesap makinesi (C# ile) |
-| 🔹 [mervearzakci](https://github.com/mervearzakci/mervearzakci) | Bu profilin README dosyası |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mervearzakci&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="350" />
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=mervearzakci&theme=algolia&margin-w=10&margin-h=10" width="700"/>
+
+</div>
 
 ---
-- [LinkedIn Profilim](https://www.linkedin.com/in/merve-arzak%C3%A7%C4%B1-521804239/)
-  ![Can Deger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanDeger&show_icons=true&theme=dark&hide=issues&count_private=true)
 
+### 💻 Teknoloji Seviyeleri
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Level 3-red?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSharp-Level 2-purple?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/JavaScript-Level 3-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-Level 2-blue?style=for-the-badge&logo=python" />
+</p>
+
+---
+
+### 🧩 Mini Projelerim
+
+| 🎯 Proje | 🎮 Açıklama |
+|-----------|------------|
+| `🧮 Hesap-Makinesi` | Dört işlemli mini oyun gibi hesap makinesi (C#) |
+| `🎨 Color-Guess` | JavaScript ile renk tahmin oyunu |
+| `🧱 Pixel-Art-Creator` | HTML/CSS ile kendi piksel karakterini yarat |
+| `📲 UI Showcase` | Tasarım prototipleri ve arayüz çalışmaları |
+
+---
+
+### 🧪 Geliştirme Süreci
+
+```bash
+Level 1: HTML ve CSS ✔️
+Level 2: C# ve Python 🔄
+Level 3: JS + Node.js 🔥
