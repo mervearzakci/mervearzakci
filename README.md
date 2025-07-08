@@ -47,9 +47,3 @@
 ### 📫 İletişim
 - 🌍 Türkiye  
 - [LinkedIn Profilim](https://www.linkedin.com/in/merve-arzak%C3%A7%C4%B1-521804239/)
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kod+yazmayı+ve+öğrenmeyi+seviyorum!;Açık+kaynak+dünyasında+aktif+olmak+istiyorum!" />
-</div>
