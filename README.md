@@ -3,16 +3,16 @@
 </p>
 
 
-<h1 align="center">Merhaba! Ben Sümeyye 👋</h1>
+<h1 align="center">Merhaba! Ben Merve 👋</h1>
 <p align="center">Programcılık Mezunu | Yazılım Geliştirici | Tutkulu Kod Yazarı</p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/sumeyyearzakci" target="_blank">
+  <a href="https://linkedin.com/in/mervearzakci" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sumeyyearzakci@example.com" target="_blank">
+  <a href="mailto:mervearzakci@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -34,36 +34,26 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumeyyearzakci&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mervearzakci&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeyyearzakci&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mervearzakci&theme=dark" alt="GitHub Streak" />
 </p>
-
----
-
-### ⭐ En Çok Katkı Sağladığım Repolar
-
-| Repo Adı | Katkı |
-|---------|-------|
-| [Repo1](https://github.com/sumeyyearzakci/repo1) | ⭐ 10 |
-| [Repo2](https://github.com/sumeyyearzakci/repo2) | ⭐ 5 |
-| [Repo3](https://github.com/sumeyyearzakci/repo3) | ⭐ 3 |
 
 ---
 
 ### 💬 İlham Verici Söz
 
 > “Keep coding, keep growing. The sky is the limit.”  
-> — Sümeyye Arzakçı
+> — Merve Arzakçı
 
 ---
 
 ### ☕ Destek Ol
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/sumeyyearzakci" target="_blank">
+  <a href="https://www.buymeacoffee.com/mervearzakci" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px;" />
   </a>
 </p>
