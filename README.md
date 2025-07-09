@@ -14,7 +14,7 @@ Bilgisayar programcılığı alanında eğitimimi tamamladım ve mühendislik al
 ---
 # GitHub İstatistiklerim
 
-![Merve'nin GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumeyyearzakci&show_icons=true&count_private=true&theme=light)
+![Merve'nin GitHub Stats](https://github-readme-stats.vercel.app/api?username=mervearzakci&show_icons=true&count_private=true&theme=light)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mervearzakci&theme=light)
 
