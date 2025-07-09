@@ -6,19 +6,6 @@
 <h1 align="center">Merhaba! Ben Merve 👋</h1>
 <p align="center">Programcılık Mezunu | Yazılım Geliştirici | Tutkulu Kod Yazarı</p>
 
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/merve-arzak%C3%A7%C4%B1-521804239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mervearzakci@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 ### 💻 Teknolojiler & Araçlar
 
 <p align="center">
@@ -43,17 +30,25 @@
 
 ---
 
-### 💬 İlham Verici Söz
+### 💬 İlham Verici Söz 
+
 
 > “Keep coding, keep growing. The sky is the limit.”  
 > — Merve Arzakçı
 
+
 ---
 
-### ☕ Destek Ol
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mervearzakci" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px;" />
+  <a href="https://www.linkedin.com/in/merve-arzak%C3%A7%C4%B1-521804239/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mervearzakci@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
+
+
+
