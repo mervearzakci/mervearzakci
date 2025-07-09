@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="900"/>
+  <img src="[https://your-banner-url.com/banner.png](https://raw.githubusercontent.com/mervearzakci/mervearzakci/main/linkedin%20banner.png
+)" alt="Banner" width="900"/>
 </p>
 
 <h1 align="center">Merhaba! Ben Sümeyye 👋</h1>
