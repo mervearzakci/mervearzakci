@@ -2,7 +2,7 @@
 
 ## 🎓 Programcılık Mezunu
 
-Bilgisayar programcılığı alanında eğitimimi tamamladım ve yazılım geliştirmeye tutkuyla devam ediyorum.
+Bilgisayar programcılığı alanında eğitimimi tamamladım ve mühendislik alanında devam ediyorum.
 
 ---
 
