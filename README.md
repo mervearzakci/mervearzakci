@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="[https://your-banner-url.com/banner.png](https://raw.githubusercontent.com/mervearzakci/mervearzakci/main/linkedin%20banner.png
-)" alt="Banner" width="900"/>
+  <img src="https://raw.githubusercontent.com/mervearzakci/mervearzakci/main/linkedın%20banner.png" alt="Banner" width="900" />
 </p>
+
 
 <h1 align="center">Merhaba! Ben Sümeyye 👋</h1>
 <p align="center">Programcılık Mezunu | Yazılım Geliştirici | Tutkulu Kod Yazarı</p>
