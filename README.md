@@ -18,6 +18,19 @@ Bilgisayar programcılığı alanında eğitimimi tamamladım ve mühendislik al
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mervearzakci&theme=light)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtdJvZow3FM2Fq/giphy.gif" width="400" alt="Coding Minimal Animation" />
+</p>
+
+```python
+# Minimalist motivasyon kodu
+def keep_coding():
+    for i in range(3):
+        print("Keep Coding! 🚀")
+
+keep_coding() 
+
+
 
 ---
 
