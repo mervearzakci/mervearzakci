@@ -28,14 +28,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mervearzakci&theme=dark" alt="GitHub Streak" />
 </p>
 
----
-
-### 💬 İlham Verici Söz 
-
-
-> “Keep coding, keep growing. The sky is the limit.”  
-> — Merve Arzakçı
-
 
 ---
 
