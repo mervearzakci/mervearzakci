@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Merhaba! Ben Merve 👋</h1>
-<p align="center">Programcılık Mezunu | Yazılım Geliştirici | Tutkulu Kod Yazarı</p>
+<p align="center">Programcılık Mezunu | Yazılım Geliştirici | Tasarımcı </p>
 
 ---
 
